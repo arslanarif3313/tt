@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Block spam/hack paths
+Disallow: /products/
+Disallow: /wp-
+Disallow: /*.php
+
+# Allow Next.js static resources
+Allow: /_next/static/
+
+# FIX: Remove trailing slash to allow the image endpoint
+Allow: /_next/image
+
+# FIX: Explicitly allow the blogs API so Google can read your content
+Allow: /api/blogs
+
+# Sitemap location
+Sitemap: https://www.tymortech.com/sitemap.xml

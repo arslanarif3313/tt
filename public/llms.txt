@@ -1,0 +1,121 @@
+# Tymortech - AI-Friendly Site Information
+
+## About Tymortech
+
+Tymortech (Tymor Technologies) is a comprehensive technology services provider specializing in AI integration, cybersecurity, managed IT services, and digital marketing solutions. We help businesses modernize their infrastructure, secure their data, and leverage cutting-edge technologies to drive growth and efficiency.
+
+## Core Services
+
+### AI Services
+We provide artificial intelligence and machine learning solutions including:
+- AI for Enterprises - Custom AI implementations tailored for enterprises
+- Chatbots and Virtual Assistants - Intelligent conversational AI solutions
+- Machine Learning - Predictive analytics and ML model development
+- Natural Language Processing (NLP) - Text analysis and language understanding
+- Speech Recognition - Voice-to-text and voice command systems
+
+### Cybersecurity Services
+Comprehensive security solutions to protect your digital assets:
+- Application Security - Secure software development and testing
+- Assessment and Analysis - Security audits and vulnerability assessments
+- Cloud Security - Cloud infrastructure protection
+- Critical Infrastructure Security - Protection for essential systems
+- Cyber Threats and Risk Assessments - Proactive threat detection
+- Data Security - Data encryption and protection strategies
+- Endpoint Security - Device-level security solutions
+- Information Security Services - Comprehensive information protection
+- Mobile Security - Mobile device and app security
+- Network Security - Network infrastructure protection
+
+### IT Services
+Full-spectrum IT support and development services:
+- Managed IT Services - Complete IT infrastructure management
+- Co-Managed IT Services - Collaborative IT support
+- API Development - Custom API design and integration
+- Cloud Native Development - Cloud-first application development
+- Database Development - Database design, optimization, and management
+- Help Desk Support - 24/7 technical support
+- IT Asset Management - Hardware and software asset tracking
+- Managed Total Backup Solution - Comprehensive data backup
+- Network Monitoring and Management - Proactive network oversight
+- Onsite IT Support - On-location technical assistance
+- Remote IT Support - Remote troubleshooting and maintenance
+- Server Administration and Management - Server setup and maintenance
+- Team Member Integration - Seamless IT team collaboration
+- VoIP Solutions - Voice over IP communication systems
+
+### Marketing Services
+Digital marketing and SEO expertise:
+- SEO Strategic Solutions - Comprehensive SEO strategies
+- SEO Consulting Services - Expert SEO guidance
+- Content Marketing Solutions - Strategic content creation
+- SEO Blog Writing - SEO-optimized blog content
+- Keyword Research Services - Data-driven keyword analysis
+
+## Key Pages
+
+### Main Navigation
+- Home: https://www.tymortech.com/
+- About Us: https://www.tymortech.com/about-us
+- Contact Us: https://www.tymortech.com/contact-us
+- Blog: https://www.tymortech.com/blog
+
+### Case Studies & Projects
+- Database Development and AI Solution in E-Commerce: https://www.tymortech.com/database-development-and-ai-solution-in-e-commerce
+- Enterprise On-Premise to Azure Cloud Migration: https://www.tymortech.com/enterprise-on-premise-to-azure-cloud-migration
+- Migration to Azure Virtual Desktop: https://www.tymortech.com/migration-to-azure-virtual-desktop-and-cloud-based-solutions
+- Cloud-Based CRM and VoIP Integration: https://www.tymortech.com/migration-to-cloud-based-crm-and-voip-integration
+- Transition to Outsourced Managed Services: https://www.tymortech.com/transition-from-in-house-it-to-outsourced-managed-services
+- Website Redevelopment and SEO: https://www.tymortech.com/website-redevelopment-and-seo-services
+
+### Legal
+- Privacy Policy: https://www.tymortech.com/privacy-policy
+- Terms and Conditions: https://www.tymortech.com/terms-and-conditions
+
+## Technology Stack
+
+- **Frontend**: Next.js 14 with React
+- **Backend**: Node.js with Next.js API Routes
+- **Database**: MongoDB Atlas
+- **Authentication**: NextAuth.js
+- **Hosting**: Vercel
+- **CMS**: Custom headless CMS (dashboard.tymortech.com)
+
+## Target Audience
+
+- Small to medium-sized businesses seeking IT services
+- Enterprises requiring cybersecurity solutions
+- Companies looking to integrate AI technologies
+- Organizations needing cloud migration services
+- Businesses requiring managed IT support
+- Companies seeking digital marketing and SEO services
+
+## Company Specializations
+
+1. **AI Integration** - Helping businesses adopt and implement artificial intelligence
+2. **Cybersecurity** - Protecting digital assets and infrastructure
+3. **Cloud Solutions** - Azure and AWS cloud migrations and management
+4. **Managed IT** - Complete IT outsourcing and co-managed services
+5. **Digital Transformation** - Modernizing business technology infrastructure
+
+## Contact Information
+
+For inquiries about our services, visit our contact page at:
+https://www.tymortech.com/contact-us
+
+## Sitemap
+
+Full sitemap available at: https://www.tymortech.com/sitemap.xml
+
+## Additional Resources
+
+- Blog with technology insights and best practices
+- Case studies demonstrating real-world implementations
+- Service pages with detailed information about each offering
+- Project portfolio showcasing successful client engagements
+
+---
+
+This file helps AI assistants understand Tymortech's services and website structure.
+For more information, visit: https://www.tymortech.com/
+
